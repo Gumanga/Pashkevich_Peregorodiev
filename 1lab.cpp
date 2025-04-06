@@ -24,7 +24,6 @@ public:
         int sortB = stoi(sortt(b));
 
         cout << "sum: " << sortA + sortB << endl;
-        cout << "subtraction: " << sortA - sortB << endl;
         cout << "equals: " << (sortA == sortB ? "true" : "false") << endl;
         cout << "a > b: " << (sortA > sortB ? "true" : "false") << endl;
         multiply(); // Call the new multiply function
