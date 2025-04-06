@@ -8,7 +8,7 @@ class Decimate {
 public:
     string a, b;
 
-    void init() {
+    void initialization() {
         a = "";
         b = "";
     }
