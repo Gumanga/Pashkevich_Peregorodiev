@@ -1,0 +1,36 @@
+[33mcommit 2c68b958197a9bcf6ecd47cb261f136e0d6036c4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msecond_branch[m[33m, [m[1;31morigin/second_branch[m[33m)[m
+Author: pplaya <gleb19051904@gmail.com>
+Date:   Fri Apr 11 10:10:46 2025 +0300
+
+    refactor: delete sorted from b
+
+[33mcommit fe786e97511d8722ddf0c89e6d81192c41b0e708[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: pplaya <gleb19051904@gmail.com>
+Date:   Sun Apr 6 16:14:16 2025 +0300
+
+    refactor: delete subtraction
+
+[33mcommit 5dc3ad542670778bd2b60704ac362e88673773a9[m
+Merge: da5bfa1 6d8434e
+Author: Gumanga <peregorodiev07@mail.ru>
+Date:   Sun Apr 6 15:56:14 2025 +0300
+
+    fix: rename_initFunc
+
+[33mcommit da5bfa17de20894c15df2041300d6a2888eb7dda[m
+Author: Gumanga <peregorodiev07@mail.ru>
+Date:   Sun Apr 6 15:52:57 2025 +0300
+
+    refactor: nameFunc_init
+
+[33mcommit 6d8434e5c4cdc56f414a904166f46bd5a3b87ab9[m
+Author: Gumanga <peregorodiev07@mail.ru>
+Date:   Sun Apr 6 15:50:03 2025 +0300
+
+    feat: add_multiply
+
+[33mcommit d5ace09d3493a5df26fb01c97cd22b2c5f516a34[m
+Author: Gumanga <peregorodiev07@mail.ru>
+Date:   Sun Apr 6 15:35:05 2025 +0300
+
+    feat: main_func
